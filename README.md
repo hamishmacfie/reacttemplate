@@ -1,2 +1,2 @@
-# reacttemplate
-Barebones react template 
+# React Template
+Reuseable barebones react template
